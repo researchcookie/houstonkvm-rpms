@@ -1,0 +1,7 @@
+[houstonkvm]
+name=HoustonKVM
+baseurl=https://researchcookie.github.io/houstonkvm-rpms/el$releasever/$basearch/
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://researchcookie.github.io/houstonkvm-rpms/RPM-GPG-KEY-houstonkvm
